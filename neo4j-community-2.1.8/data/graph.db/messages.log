@@ -1,0 +1,530 @@
+2020-05-05 03:25:58.490+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2020-05-05 03:25:58.500+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2020-05-05 03:25:58.500+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.relationshiptypestore.db.names hit=0 miss=0 switches=0 ooe=0
+2020-05-05 03:25:58.501+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.relationshiptypestore.db hit=0 miss=0 switches=0 ooe=0
+2020-05-05 03:25:58.504+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2020-05-05 03:25:58.504+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2020-05-05 03:25:58.505+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.labeltokenstore.db.names hit=0 miss=0 switches=0 ooe=0
+2020-05-05 03:25:58.505+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.labeltokenstore.db hit=0 miss=0 switches=0 ooe=0
+2020-05-05 03:25:58.509+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2020-05-05 03:25:58.509+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2020-05-05 03:25:58.509+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2020-05-05 03:25:58.509+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2020-05-05 03:25:58.509+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.propertystore.db.strings] brickCount=0 brickSize=524288b mappedMem=524288000b (storeSize=128b)
+2020-05-05 03:25:58.510+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.propertystore.db.index.keys] brickCount=0 brickSize=5206b mappedMem=5242880b (storeSize=38b)
+2020-05-05 03:25:58.510+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.propertystore.db.index] brickCount=0 brickSize=52425b mappedMem=5242880b (storeSize=0b)
+2020-05-05 03:25:58.510+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.propertystore.db.arrays] brickCount=0 brickSize=136192b mappedMem=136314880b (storeSize=128b)
+2020-05-05 03:25:58.511+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.propertystore.db] brickCount=0 brickSize=10737408b mappedMem=1073741824b (storeSize=0b)
+2020-05-05 03:25:58.512+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.relationshipstore.db] brickCount=0 brickSize=32212246b mappedMem=3221225472b (storeSize=0b)
+2020-05-05 03:25:58.512+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2020-05-05 03:25:58.513+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.nodestore.db] brickCount=0 brickSize=10737405b mappedMem=1073741824b (storeSize=0b)
+2020-05-05 03:25:58.513+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2020-05-05 03:25:58.514+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.relationshipgroupstore.db] brickCount=0 brickSize=10475b mappedMem=10485760b (storeSize=25b)
+2020-05-05 03:25:58.514+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2020-05-05 03:25:58.517+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.relationshiptypestore.db.names hit=0 miss=0 switches=0 ooe=0
+2020-05-05 03:25:58.518+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.relationshiptypestore.db hit=0 miss=0 switches=0 ooe=0
+2020-05-05 03:25:58.518+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.labeltokenstore.db.names hit=0 miss=0 switches=0 ooe=0
+2020-05-05 03:25:58.519+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.labeltokenstore.db hit=0 miss=0 switches=0 ooe=0
+2020-05-05 03:25:58.519+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.propertystore.db.strings hit=0 miss=0 switches=0 ooe=0
+2020-05-05 03:25:58.520+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.propertystore.db.index.keys hit=0 miss=0 switches=0 ooe=0
+2020-05-05 03:25:58.521+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.propertystore.db.index hit=0 miss=0 switches=0 ooe=0
+2020-05-05 03:25:58.521+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.propertystore.db.arrays hit=0 miss=0 switches=0 ooe=0
+2020-05-05 03:25:58.522+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.propertystore.db hit=0 miss=0 switches=0 ooe=0
+2020-05-05 03:25:58.523+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.relationshipstore.db hit=0 miss=0 switches=0 ooe=0
+2020-05-05 03:25:58.524+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.nodestore.db.labels hit=0 miss=0 switches=0 ooe=0
+2020-05-05 03:25:58.524+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.nodestore.db hit=0 miss=0 switches=0 ooe=0
+2020-05-05 03:25:58.525+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.schemastore.db hit=0 miss=0 switches=0 ooe=0
+2020-05-05 03:25:58.526+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.relationshipgroupstore.db hit=0 miss=0 switches=0 ooe=0
+2020-05-05 03:25:58.526+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore hit=0 miss=10 switches=0 ooe=0
+2020-05-05 03:25:58.527+0000 INFO  [org.neo4j]: Thread[main,5,main] Starting BatchInserter(EmbeddedBatchInserter[/home/ubuntu/Navex/workspace/graph.db])
+2020-05-05 03:25:58.527+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2020-05-05 03:25:58.528+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2020-05-05 03:25:58.528+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2020-05-05 03:25:58.528+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2020-05-05 03:25:58.528+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.propertystore.db.strings] brickCount=0 brickSize=524288b mappedMem=524288000b (storeSize=128b)
+2020-05-05 03:25:58.528+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.propertystore.db.index.keys] brickCount=0 brickSize=5206b mappedMem=5242880b (storeSize=38b)
+2020-05-05 03:25:58.528+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.propertystore.db.index] brickCount=0 brickSize=52425b mappedMem=5242880b (storeSize=0b)
+2020-05-05 03:25:58.529+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.propertystore.db.arrays] brickCount=0 brickSize=136192b mappedMem=136314880b (storeSize=128b)
+2020-05-05 03:25:58.529+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.propertystore.db] brickCount=0 brickSize=10737408b mappedMem=1073741824b (storeSize=0b)
+2020-05-05 03:25:58.529+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.relationshipstore.db] brickCount=0 brickSize=32212246b mappedMem=3221225472b (storeSize=0b)
+2020-05-05 03:25:58.529+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2020-05-05 03:25:58.529+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.nodestore.db] brickCount=0 brickSize=10737405b mappedMem=1073741824b (storeSize=0b)
+2020-05-05 03:25:58.529+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2020-05-05 03:25:58.530+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore.relationshipgroupstore.db] brickCount=0 brickSize=10475b mappedMem=10485760b (storeSize=25b)
+2020-05-05 03:25:58.530+0000 INFO  [org.neo4j]: [/home/ubuntu/Navex/workspace/graph.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=81b)
+2020-05-05 03:25:58.557+0000 INFO  [org.neo4j]: No lucene scan store index found, this might just be first use. Preparing to rebuild.
+2020-05-05 03:25:58.567+0000 INFO  [org.neo4j]: No lucene scan store index found, this might just be first use. Preparing to rebuild.
+2020-05-05 03:25:58.651+0000 INFO  [org.neo4j]: Rebuilding lucene scan store, this may take a while
+2020-05-05 03:25:58.651+0000 INFO  [org.neo4j]: Lucene scan store rebuilt (roughly -1 nodes)
+2020-05-05 03:26:00.843+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.relationshiptypestore.db.names hit=0 miss=8 switches=0 ooe=0
+2020-05-05 03:26:00.844+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.relationshiptypestore.db hit=0 miss=8 switches=0 ooe=0
+2020-05-05 03:26:00.844+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.labeltokenstore.db.names hit=0 miss=3 switches=0 ooe=0
+2020-05-05 03:26:00.845+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.labeltokenstore.db hit=0 miss=3 switches=0 ooe=0
+2020-05-05 03:26:00.848+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.propertystore.db.strings hit=14131 miss=0 switches=0 ooe=0
+2020-05-05 03:26:00.849+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.propertystore.db.index.keys hit=14 miss=0 switches=0 ooe=0
+2020-05-05 03:26:00.850+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.propertystore.db.index hit=14 miss=0 switches=0 ooe=0
+2020-05-05 03:26:00.855+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.propertystore.db.arrays hit=12552 miss=0 switches=0 ooe=0
+2020-05-05 03:26:00.895+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.propertystore.db hit=346517 miss=0 switches=0 ooe=0
+2020-05-05 03:26:00.900+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.relationshipstore.db hit=514568 miss=0 switches=0 ooe=0
+2020-05-05 03:26:00.900+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.nodestore.db.labels hit=0 miss=0 switches=0 ooe=0
+2020-05-05 03:26:00.902+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.nodestore.db hit=850796 miss=0 switches=0 ooe=0
+2020-05-05 03:26:00.903+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.schemastore.db hit=0 miss=0 switches=0 ooe=0
+2020-05-05 03:26:00.904+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore.relationshipgroupstore.db hit=2932 miss=0 switches=0 ooe=0
+2020-05-05 03:26:00.904+0000 INFO  [org.neo4j]: /home/ubuntu/Navex/workspace/graph.db/neostore hit=0 miss=2 switches=0 ooe=0
+2020-05-05 03:26:00.905+0000 INFO  [org.neo4j]: Thread[main,5,main] Clean shutdown on BatchInserter(EmbeddedBatchInserter[/home/ubuntu/Navex/workspace/graph.db])
+2020-05-05 12:51:37.986+0000 WARN  [o.n.k.i.JvmChecker]: You are using an unsupported version of the Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 7 or OpenJDK(TM) 7.
+2020-05-05 12:51:38.023+0000 INFO  [o.n.s.CommunityNeoServer]: Setting startup timeout to: 120000ms based on -1
+2020-05-05 12:51:38.059+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: You are using an unsupported version of the Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 7 or OpenJDK(TM) 7.
+2020-05-05 12:51:38.067+0000 INFO  [o.n.k.InternalAbstractGraphDatabase]: No locking implementation specified, defaulting to 'community'
+2020-05-05 12:51:38.102+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2020-05-05 12:51:38.103+0000 INFO  [o.n.k.i.DiagnosticsManager]: Neo4j Kernel properties:
+2020-05-05 12:51:38.103+0000 INFO  [o.n.k.i.DiagnosticsManager]: neostore.propertystore.db.strings.mapped_memory=234M
+2020-05-05 12:51:38.103+0000 INFO  [o.n.k.i.DiagnosticsManager]: neostore.nodestore.db.mapped_memory=73M
+2020-05-05 12:51:38.103+0000 INFO  [o.n.k.i.DiagnosticsManager]: store_dir=/home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db
+2020-05-05 12:51:38.103+0000 INFO  [o.n.k.i.DiagnosticsManager]: neostore.propertystore.db.arrays.mapped_memory=273M
+2020-05-05 12:51:38.103+0000 INFO  [o.n.k.i.DiagnosticsManager]: remote_shell_enabled=true
+2020-05-05 12:51:38.103+0000 INFO  [o.n.k.i.DiagnosticsManager]: neostore.relationshipgroupstore.db.mapped_memory=0M
+2020-05-05 12:51:38.103+0000 INFO  [o.n.k.i.DiagnosticsManager]: neostore.propertystore.db.mapped_memory=268M
+2020-05-05 12:51:38.103+0000 INFO  [o.n.k.i.DiagnosticsManager]: neostore.relationshipstore.db.mapped_memory=316M
+2020-05-05 12:51:38.104+0000 INFO  [o.n.k.i.DiagnosticsManager]: Diagnostics providers:
+2020-05-05 12:51:38.104+0000 INFO  [o.n.k.i.DiagnosticsManager]: org.neo4j.kernel.configuration.Config
+2020-05-05 12:51:38.104+0000 INFO  [o.n.k.i.DiagnosticsManager]: org.neo4j.kernel.info.DiagnosticsManager
+2020-05-05 12:51:38.104+0000 INFO  [o.n.k.i.DiagnosticsManager]: SYSTEM_MEMORY
+2020-05-05 12:51:38.104+0000 INFO  [o.n.k.i.DiagnosticsManager]: JAVA_MEMORY
+2020-05-05 12:51:38.104+0000 INFO  [o.n.k.i.DiagnosticsManager]: OPERATING_SYSTEM
+2020-05-05 12:51:38.104+0000 INFO  [o.n.k.i.DiagnosticsManager]: JAVA_VIRTUAL_MACHINE
+2020-05-05 12:51:38.104+0000 INFO  [o.n.k.i.DiagnosticsManager]: CLASSPATH
+2020-05-05 12:51:38.104+0000 INFO  [o.n.k.i.DiagnosticsManager]: LIBRARY_PATH
+2020-05-05 12:51:38.104+0000 INFO  [o.n.k.i.DiagnosticsManager]: SYSTEM_PROPERTIES
+2020-05-05 12:51:38.104+0000 INFO  [o.n.k.i.DiagnosticsManager]: LINUX_SCHEDULERS
+2020-05-05 12:51:38.104+0000 INFO  [o.n.k.i.DiagnosticsManager]: NETWORK
+2020-05-05 12:51:38.104+0000 INFO  [o.n.k.i.DiagnosticsManager]: System memory information:
+2020-05-05 12:51:38.106+0000 INFO  [o.n.k.i.DiagnosticsManager]: Total Physical memory: 3.84 GB
+2020-05-05 12:51:38.106+0000 INFO  [o.n.k.i.DiagnosticsManager]: Free Physical memory: 565.09 MB
+2020-05-05 12:51:38.106+0000 INFO  [o.n.k.i.DiagnosticsManager]: Committed virtual memory: 3.41 GB
+2020-05-05 12:51:38.106+0000 INFO  [o.n.k.i.DiagnosticsManager]: Total swap space: 1022.00 MB
+2020-05-05 12:51:38.106+0000 INFO  [o.n.k.i.DiagnosticsManager]: Free swap space: 1020.91 MB
+2020-05-05 12:51:38.107+0000 INFO  [o.n.k.i.DiagnosticsManager]: JVM memory information:
+2020-05-05 12:51:38.107+0000 INFO  [o.n.k.i.DiagnosticsManager]: Free  memory: 51.66 MB
+2020-05-05 12:51:38.107+0000 INFO  [o.n.k.i.DiagnosticsManager]: Total memory: 59.94 MB
+2020-05-05 12:51:38.107+0000 INFO  [o.n.k.i.DiagnosticsManager]: Max   memory: 951.31 MB
+2020-05-05 12:51:38.108+0000 INFO  [o.n.k.i.DiagnosticsManager]: Garbage Collector: ParNew: [Par Eden Space, Par Survivor Space]
+2020-05-05 12:51:38.108+0000 INFO  [o.n.k.i.DiagnosticsManager]: Garbage Collector: ConcurrentMarkSweep: [Par Eden Space, Par Survivor Space, CMS Old Gen]
+2020-05-05 12:51:38.108+0000 INFO  [o.n.k.i.DiagnosticsManager]: Memory Pool: Code Cache (Non-heap memory): committed=3.25 MB, used=3.21 MB, max=240.00 MB, threshold=0.00 B
+2020-05-05 12:51:38.109+0000 INFO  [o.n.k.i.DiagnosticsManager]: Memory Pool: Metaspace (Non-heap memory): committed=13.25 MB, used=12.92 MB, max=-1.00 B, threshold=0.00 B
+2020-05-05 12:51:38.109+0000 INFO  [o.n.k.i.DiagnosticsManager]: Memory Pool: Compressed Class Space (Non-heap memory): committed=1.75 MB, used=1.64 MB, max=1.00 GB, threshold=0.00 B
+2020-05-05 12:51:38.109+0000 INFO  [o.n.k.i.DiagnosticsManager]: Memory Pool: Par Eden Space (Heap memory): committed=16.50 MB, used=1.31 MB, max=261.94 MB, threshold=?
+2020-05-05 12:51:38.110+0000 INFO  [o.n.k.i.DiagnosticsManager]: Memory Pool: Par Survivor Space (Heap memory): committed=2.06 MB, used=2.06 MB, max=32.69 MB, threshold=?
+2020-05-05 12:51:38.110+0000 INFO  [o.n.k.i.DiagnosticsManager]: Memory Pool: CMS Old Gen (Heap memory): committed=41.38 MB, used=4.90 MB, max=656.69 MB, threshold=0.00 B
+2020-05-05 12:51:38.110+0000 INFO  [o.n.k.i.DiagnosticsManager]: Operating system information:
+2020-05-05 12:51:38.110+0000 INFO  [o.n.k.i.DiagnosticsManager]: Operating System: Linux; version: 4.10.0-28-generic; arch: amd64; cpus: 4
+2020-05-05 12:51:38.110+0000 INFO  [o.n.k.i.DiagnosticsManager]: Max number of file descriptors: 1048576
+2020-05-05 12:51:38.111+0000 INFO  [o.n.k.i.DiagnosticsManager]: Number of open file descriptors: 120
+2020-05-05 12:51:38.111+0000 INFO  [o.n.k.i.DiagnosticsManager]: Process id: 75421@ubuntu
+2020-05-05 12:51:38.111+0000 INFO  [o.n.k.i.DiagnosticsManager]: Byte order: LITTLE_ENDIAN
+2020-05-05 12:51:38.111+0000 INFO  [o.n.k.i.DiagnosticsManager]: Local timezone: America/Los_Angeles
+2020-05-05 12:51:38.111+0000 INFO  [o.n.k.i.DiagnosticsManager]: JVM information:
+2020-05-05 12:51:38.111+0000 INFO  [o.n.k.i.DiagnosticsManager]: VM Name: OpenJDK 64-Bit Server VM
+2020-05-05 12:51:38.111+0000 INFO  [o.n.k.i.DiagnosticsManager]: VM Vendor: Private Build
+2020-05-05 12:51:38.111+0000 INFO  [o.n.k.i.DiagnosticsManager]: VM Version: 25.252-b09
+2020-05-05 12:51:38.111+0000 INFO  [o.n.k.i.DiagnosticsManager]: JIT compiler: HotSpot 64-Bit Tiered Compilers
+2020-05-05 12:51:38.111+0000 INFO  [o.n.k.i.DiagnosticsManager]: VM Arguments: [-XX:+DisableExplicitGC, -Dorg.neo4j.server.properties=conf/neo4j-server.properties, -Djava.util.logging.config.file=conf/logging.properties, -Dlog4j.configuration=file:conf/log4j.properties, -XX:+UseConcMarkSweepGC, -XX:+CMSClassUnloadingEnabled, -XX:-OmitStackTraceInFastThrow, -Dneo4j.home=/home/ubuntu/Navex/neo4j-community-2.1.8, -Dneo4j.instance=/home/ubuntu/Navex/neo4j-community-2.1.8, -Dfile.encoding=UTF-8]
+2020-05-05 12:51:38.111+0000 INFO  [o.n.k.i.DiagnosticsManager]: Java classpath:
+2020-05-05 12:51:38.112+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [bootstrap] /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/javax.servlet-3.0.0.v201112011016.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/lib/neo4j-udc-2.1.8.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/antlr-2.7.7.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [loader.1] file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/commons-digester-1.8.1.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/blueprints-neo4j2-graph-2.5.0.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/lib/neo4j-kernel-2.1.8.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/lib/opencsv-2.3.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/asm-analysis-3.2.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/colt-1.2.0.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/lib/neo4j-shell-2.1.8.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/rhino-1.7R4.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/commons-logging-1.1.1.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/lib/neo4j-graph-algo-2.1.8.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [bootstrap] /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/ant-launcher-1.8.3.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/lib/neo4j-cypher-compiler-2.1-2.1.8.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/commons-compiler-2.6.1.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/jsr311-api-1.1.2.r612.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/jackson-datatype-json-org-2.2.3.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/lib/neo4j-graph-matching-2.1.8.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/lib/parboiled-core-1.1.6.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/rrd4j-2.0.7.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [loader.1] file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/localedata.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/lib/concurrentlinkedhashmap-lru-1.3.1.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/commons-logging-1.1.1.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/asm-3.1.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/commons-lang-2.4.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [loader.1] file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/cldrdata.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [bootstrap] /usr/lib/jvm/java-8-openjdk-amd64/jre/classes
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/asm-commons-3.2.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/commons-configuration-1.6.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/opencsv-2.3.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/neo4j-server-2.1.8-static-web.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/groovy-1.8.9.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/asm-3.1.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/ivy-2.3.0.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/jettison-1.3.3.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/lib/geronimo-jta_1.1_spec-1.1.1.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/stax-api-1.0.1.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/conf/
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/jetty-servlet-9.0.5.v20130815.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/jetty-http-9.0.5.v20130815.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/commons-beanutils-core-1.8.0.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/lib/neo4j-cypher-compiler-1.9-2.0.3.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/lib/neo4j-lucene-index-2.1.8.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/commons-collections-3.2.1.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/jackson-jaxrs-1.9.7.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/slf4j-api-1.6.2.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/pipes-2.5.0.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/commons-lang-2.4.jar
+2020-05-05 12:51:38.113+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/jackson-core-asl-1.9.7.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/gson-2.2.2.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/jansi-1.5.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [loader.1] file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/icedtea-sound.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/lib/scala-library-2.10.4.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/logback-classic-1.1.2.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [loader.1] file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunjce_provider.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/ant-1.8.3.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/lib/neo4j-primitive-collections-2.1.8.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/lib/lucene-core-3.6.2.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/neo4j-server-2.1.8.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [bootstrap] /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/asm-util-3.2.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/jetty-server-9.0.5.v20130815.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/lib/parboiled-scala_2.10-1.1.6.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/jersey-multipart-1.9.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/jersey-server-1.9.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/jetty-io-9.0.5.v20130815.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/jetty-security-9.0.5.v20130815.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/commons-digester-1.8.1.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/jcl-over-slf4j-1.6.1.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/jackson-core-2.2.2.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/neo4j-gremlin-plugin-2.1-SNAPSHOT.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/bcprov-jdk16-140.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [loader.1] file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/jaccess.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/janino-2.6.1.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [loader.1] file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunpkcs11.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/lib/neo4j-cypher-compiler-2.0-2.0.3.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/json-20090211.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/jersey-core-1.9.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/neo4j-browser-2.1.8.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [loader.1] file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunec.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [bootstrap] /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/blueprints-core-2.5.0.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/lib/neo4j-jmx-2.1.8.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/logback-access-1.1.2.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/lib/neo4j-cypher-2.1.8.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/jetty-xml-9.0.5.v20130815.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/commons-beanutils-1.7.0.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [loader.1] file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/zipfs.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/commons-beanutils-1.8.0.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/jackson-databind-2.2.2.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/commons-io-1.4.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [bootstrap] /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/gremlin-java-2.5.0.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/jackson-annotations-2.2.2.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/mimepull-1.6.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/commons-collections-3.2.1.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/jackson-mapper-asl-1.9.7.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/jetty-util-9.0.5.v20130815.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/concurrent-1.3.4.jar
+2020-05-05 12:51:38.114+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/jetty-webapp-9.0.5.v20130815.jar
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [loader.1] file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/dnsns.jar
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/commons-beanutils-core-1.8.0.jar
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/lib/org.apache.servicemix.bundles.jline-0.9.94_1.jar
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/system/lib/logback-core-1.1.2.jar
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/commons-configuration-1.6.jar
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [bootstrap] /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/gremlin-groovy-2.5.0.jar
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/plugins/asm-tree-3.2.jar
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/lib/neo4j-cypher-commons-2.1.8.jar
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [bootstrap] /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]:  [classpath + loader.0] file:/home/ubuntu/Navex/neo4j-community-2.1.8/lib/server-api-2.1.8.jar
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]: Library path:
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]: /usr/java/packages/lib/amd64
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]: /usr/lib/x86_64-linux-gnu/jni
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]: /lib/x86_64-linux-gnu
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]: /usr/lib/x86_64-linux-gnu
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]: /usr/lib/jni
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]: /lib
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]: /usr/lib
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]: System.properties:
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]: sun.boot.library.path = /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]: org.neo4j.server.properties = conf/neo4j-server.properties
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]: path.separator = :
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]: file.encoding.pkg = sun.io
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]: user.country = US
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]: sun.java.launcher = SUN_STANDARD
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]: sun.os.patch.level = unknown
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]: user.dir = /home/ubuntu/Navex/neo4j-community-2.1.8
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]: log4j.configuration = file:conf/log4j.properties
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]: sun.jnu.encoding = UTF-8
+2020-05-05 12:51:38.115+0000 INFO  [o.n.k.i.DiagnosticsManager]: sun.management.compiler = HotSpot 64-Bit Tiered Compilers
+2020-05-05 12:51:38.116+0000 INFO  [o.n.k.i.DiagnosticsManager]: user.home = /home/ubuntu
+2020-05-05 12:51:38.116+0000 INFO  [o.n.k.i.DiagnosticsManager]: user.timezone = America/Los_Angeles
+2020-05-05 12:51:38.116+0000 INFO  [o.n.k.i.DiagnosticsManager]: file.encoding = UTF-8
+2020-05-05 12:51:38.116+0000 INFO  [o.n.k.i.DiagnosticsManager]: user.name = ubuntu
+2020-05-05 12:51:38.116+0000 INFO  [o.n.k.i.DiagnosticsManager]: sun.java.command = org.neo4j.server.Bootstrapper
+2020-05-05 12:51:38.116+0000 INFO  [o.n.k.i.DiagnosticsManager]: sun.arch.data.model = 64
+2020-05-05 12:51:38.116+0000 INFO  [o.n.k.i.DiagnosticsManager]: user.language = en
+2020-05-05 12:51:38.116+0000 INFO  [o.n.k.i.DiagnosticsManager]: awt.toolkit = sun.awt.X11.XToolkit
+2020-05-05 12:51:38.116+0000 INFO  [o.n.k.i.DiagnosticsManager]: file.separator = /
+2020-05-05 12:51:38.116+0000 INFO  [o.n.k.i.DiagnosticsManager]: sun.io.unicode.encoding = UnicodeLittle
+2020-05-05 12:51:38.116+0000 INFO  [o.n.k.i.DiagnosticsManager]: sun.cpu.endian = little
+2020-05-05 12:51:38.116+0000 INFO  [o.n.k.i.DiagnosticsManager]: neo4j.instance = /home/ubuntu/Navex/neo4j-community-2.1.8
+2020-05-05 12:51:38.116+0000 INFO  [o.n.k.i.DiagnosticsManager]: sun.desktop = gnome
+2020-05-05 12:51:38.116+0000 INFO  [o.n.k.i.DiagnosticsManager]: neo4j.home = /home/ubuntu/Navex/neo4j-community-2.1.8
+2020-05-05 12:51:38.116+0000 INFO  [o.n.k.i.DiagnosticsManager]: sun.cpu.isalist = 
+2020-05-05 12:51:38.116+0000 INFO  [o.n.k.i.DiagnosticsManager]: Linux scheduler information:
+2020-05-05 12:51:38.117+0000 INFO  [o.n.k.i.DiagnosticsManager]: none
+2020-05-05 12:51:38.117+0000 INFO  [o.n.k.i.DiagnosticsManager]: none
+2020-05-05 12:51:38.117+0000 INFO  [o.n.k.i.DiagnosticsManager]: none
+2020-05-05 12:51:38.117+0000 INFO  [o.n.k.i.DiagnosticsManager]: none
+2020-05-05 12:51:38.117+0000 INFO  [o.n.k.i.DiagnosticsManager]: none
+2020-05-05 12:51:38.117+0000 INFO  [o.n.k.i.DiagnosticsManager]: noop deadline [cfq] 
+2020-05-05 12:51:38.117+0000 INFO  [o.n.k.i.DiagnosticsManager]: none
+2020-05-05 12:51:38.117+0000 INFO  [o.n.k.i.DiagnosticsManager]: none
+2020-05-05 12:51:38.118+0000 INFO  [o.n.k.i.DiagnosticsManager]: none
+2020-05-05 12:51:38.118+0000 INFO  [o.n.k.i.DiagnosticsManager]: Network information:
+2020-05-05 12:51:38.118+0000 INFO  [o.n.k.i.DiagnosticsManager]: Interface ens33:
+2020-05-05 12:51:38.118+0000 INFO  [o.n.k.i.DiagnosticsManager]:     address: fe80:0:0:0:acf5:bc5f:c6:4190%ens33
+2020-05-05 12:51:38.118+0000 INFO  [o.n.k.i.DiagnosticsManager]:     address: 192.168.254.141
+2020-05-05 12:51:38.118+0000 INFO  [o.n.k.i.DiagnosticsManager]: Interface lo:
+2020-05-05 12:51:38.118+0000 INFO  [o.n.k.i.DiagnosticsManager]:     address: 0:0:0:0:0:0:0:1%lo
+2020-05-05 12:51:38.118+0000 INFO  [o.n.k.i.DiagnosticsManager]:     address: 127.0.0.1
+2020-05-05 12:51:38.118+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2020-05-05 12:51:38.183+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [/home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=342b)
+2020-05-05 12:51:38.184+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [/home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=40b)
+2020-05-05 12:51:38.184+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [/home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=152b)
+2020-05-05 12:51:38.185+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [/home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=15b)
+2020-05-05 12:51:38.185+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [/home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.propertystore.db.strings] brickCount=7 brickSize=245248b mappedMem=245366784b (storeSize=1808896b)
+2020-05-05 12:51:38.186+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [/home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=570b)
+2020-05-05 12:51:38.186+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [/home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=126b)
+2020-05-05 12:51:38.187+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [/home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.propertystore.db.arrays] brickCount=5 brickSize=286208b mappedMem=286261248b (storeSize=1606784b)
+2020-05-05 12:51:38.193+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [/home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.propertystore.db] brickCount=50 brickSize=281014b mappedMem=281018368b (storeSize=14207197b)
+2020-05-05 12:51:38.194+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [/home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.relationshipstore.db] brickCount=15 brickSize=331330b mappedMem=331350016b (storeSize=5153312b)
+2020-05-05 12:51:38.195+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [/home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2020-05-05 12:51:38.196+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [/home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.nodestore.db] brickCount=23 brickSize=76545b mappedMem=76546048b (storeSize=1836885b)
+2020-05-05 12:51:38.196+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [/home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2020-05-05 12:51:38.197+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [/home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=1075b)
+2020-05-05 12:51:38.198+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [/home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=81b)
+2020-05-05 12:51:38.333+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [/home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/nioneo_logical.log.1] version=22, lastTxId=1 (clean)
+2020-05-05 12:51:38.339+0000 INFO  [o.n.k.i.t.TxManager]: TM opening log: /home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/tm_tx_log.1
+2020-05-05 12:51:38.342+0000 INFO  [o.n.k.i.t.KernelHealth]: Kernel health set to OK
+2020-05-05 12:51:38.404+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [/home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/index/lucene.log.1] version=22, lastTxId=1 (clean)
+2020-05-05 12:51:38.408+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2020-05-05 12:51:38.408+0000 INFO  [o.n.k.i.DiagnosticsManager]: Graph Database: org.neo4j.kernel.EmbeddedGraphDatabase StoreId{creationTime=1588649158467, randomId=6194271931764952027, storeVersion=14406081294923270, upgradeTime=1588649158467, upgradeId=6194271931764952027}
+2020-05-05 12:51:38.408+0000 INFO  [o.n.k.i.DiagnosticsManager]: Kernel version: Neo4j - Graph Database Kernel (neo4j-kernel), version: 2.1.8
+2020-05-05 12:51:38.408+0000 INFO  [o.n.k.i.DiagnosticsManager]: Neo4j component versions:
+2020-05-05 12:51:38.411+0000 INFO  [o.n.k.i.DiagnosticsManager]:   Neo4j - Cypher Compiler 1.9 (neo4j-cypher-compiler-1.9), version: 2.0.3; revision: 2.0.3:2.0-maint:72/307c563c11b75fdc71cfa6df05daf9b08d6c37dc
+2020-05-05 12:51:38.411+0000 INFO  [o.n.k.i.DiagnosticsManager]:   Neo4j - Cypher Commons (neo4j-cypher-commons), version: 2.1.8; revision: 2.1.8:2.1-maint:687/5c83ce3a5ddf33259593f719153ce71a6fe89fc7
+2020-05-05 12:51:38.411+0000 INFO  [o.n.k.i.DiagnosticsManager]:   Neo4j Server API (server-api), version: 2.1.8; revision: 2.1.8:2.1-maint:687/5c83ce3a5ddf33259593f719153ce71a6fe89fc7
+2020-05-05 12:51:38.411+0000 INFO  [o.n.k.i.DiagnosticsManager]:   Neo4j - Graph Database Kernel (neo4j-kernel), version: 2.1.8; revision: 2.1.8:2.1-maint:687/5c83ce3a5ddf33259593f719153ce71a6fe89fc7
+2020-05-05 12:51:38.411+0000 INFO  [o.n.k.i.DiagnosticsManager]:   Neo4j - Cypher Compiler 2.1 (neo4j-cypher-compiler-2.1), version: 2.1.8; revision: 2.1.8:2.1-maint:687/5c83ce3a5ddf33259593f719153ce71a6fe89fc7
+2020-05-05 12:51:38.411+0000 INFO  [o.n.k.i.DiagnosticsManager]:   Neo4j - Generic shell (neo4j-shell), version: 2.1.8; revision: 2.1.8:2.1-maint:687/5c83ce3a5ddf33259593f719153ce71a6fe89fc7
+2020-05-05 12:51:38.411+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neo4j-udc, version: 2.1.8; revision: 2.1.8:2.1-maint:687/5c83ce3a5ddf33259593f719153ce71a6fe89fc7
+2020-05-05 12:51:38.411+0000 INFO  [o.n.k.i.DiagnosticsManager]:   Neo4j - Lucene Index (neo4j-lucene-index), version: 2.1.8; revision: 2.1.8:2.1-maint:687/5c83ce3a5ddf33259593f719153ce71a6fe89fc7
+2020-05-05 12:51:38.411+0000 INFO  [o.n.k.i.DiagnosticsManager]:   Neo4j Server (neo4j-server), version: 2.1.8; revision: 2.1.8:2.1-maint:687/5c83ce3a5ddf33259593f719153ce71a6fe89fc7
+2020-05-05 12:51:38.411+0000 INFO  [o.n.k.i.DiagnosticsManager]:   Neo4j - Cypher Compiler 2.0 (neo4j-cypher-compiler-2.0), version: 2.0.3; revision: 2.0.3:2.0-maint:72/307c563c11b75fdc71cfa6df05daf9b08d6c37dc
+2020-05-05 12:51:38.411+0000 INFO  [o.n.k.i.DiagnosticsManager]:   Neo4j - Graph Matching (neo4j-graph-matching), version: 2.1.8; revision: 2.1.8:2.1-maint:687/5c83ce3a5ddf33259593f719153ce71a6fe89fc7
+2020-05-05 12:51:38.411+0000 INFO  [o.n.k.i.DiagnosticsManager]:   Neo4j - JMX support (neo4j-jmx), version: 2.1.8; revision: 2.1.8:2.1-maint:687/5c83ce3a5ddf33259593f719153ce71a6fe89fc7
+2020-05-05 12:51:38.411+0000 INFO  [o.n.k.i.DiagnosticsManager]:   Neo4j - Cypher (neo4j-cypher), version: 2.1.8; revision: 2.1.8:2.1-maint:687/5c83ce3a5ddf33259593f719153ce71a6fe89fc7
+2020-05-05 12:51:38.411+0000 INFO  [o.n.k.i.DiagnosticsManager]:   Neo4j - Graph Algorithms (neo4j-graph-algo), version: 2.1.8; revision: 2.1.8:2.1-maint:687/5c83ce3a5ddf33259593f719153ce71a6fe89fc7
+2020-05-05 12:51:38.411+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2020-05-05 12:51:38.412+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2020-05-05 12:51:38.412+0000 INFO  [o.n.k.i.DiagnosticsManager]: Store versions:
+2020-05-05 12:51:38.412+0000 INFO  [o.n.k.i.DiagnosticsManager]: Store versions:
+2020-05-05 12:51:38.412+0000 INFO  [o.n.k.i.DiagnosticsManager]:   NeoStore v0.A.3
+2020-05-05 12:51:38.412+0000 INFO  [o.n.k.i.DiagnosticsManager]:   SchemaStore v0.A.3
+2020-05-05 12:51:38.412+0000 INFO  [o.n.k.i.DiagnosticsManager]:   NodeStore v0.A.3
+2020-05-05 12:51:38.412+0000 INFO  [o.n.k.i.DiagnosticsManager]:   RelationshipStore v0.A.3
+2020-05-05 12:51:38.412+0000 INFO  [o.n.k.i.DiagnosticsManager]:   RelationshipTypeStore v0.A.3
+2020-05-05 12:51:38.412+0000 INFO  [o.n.k.i.DiagnosticsManager]:   LabelTokenStore v0.A.3
+2020-05-05 12:51:38.412+0000 INFO  [o.n.k.i.DiagnosticsManager]:   PropertyStore v0.A.3
+2020-05-05 12:51:38.412+0000 INFO  [o.n.k.i.DiagnosticsManager]:   PropertyIndexStore v0.A.3
+2020-05-05 12:51:38.412+0000 INFO  [o.n.k.i.DiagnosticsManager]:   StringPropertyStore v0.A.3
+2020-05-05 12:51:38.412+0000 INFO  [o.n.k.i.DiagnosticsManager]:   ArrayPropertyStore v0.A.3
+2020-05-05 12:51:38.412+0000 INFO  [o.n.k.i.DiagnosticsManager]:   RelationshipGroupStore v0.A.3
+2020-05-05 12:51:38.412+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2020-05-05 12:51:38.412+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2020-05-05 12:51:38.412+0000 INFO  [o.n.k.i.DiagnosticsManager]: Id usage:
+2020-05-05 12:51:38.412+0000 INFO  [o.n.k.i.DiagnosticsManager]: Id usage:
+2020-05-05 12:51:38.412+0000 INFO  [o.n.k.i.DiagnosticsManager]:   SchemaStore: used=1 high=0
+2020-05-05 12:51:38.412+0000 INFO  [o.n.k.i.DiagnosticsManager]:   NodeStore: used=122459 high=122458
+2020-05-05 12:51:38.412+0000 INFO  [o.n.k.i.DiagnosticsManager]:   RelationshipStore: used=151568 high=151567
+2020-05-05 12:51:38.413+0000 INFO  [o.n.k.i.DiagnosticsManager]:   RelationshipTypeStore: used=8 high=7
+2020-05-05 12:51:38.413+0000 INFO  [o.n.k.i.DiagnosticsManager]:   LabelTokenStore: used=3 high=2
+2020-05-05 12:51:38.413+0000 INFO  [o.n.k.i.DiagnosticsManager]:   PropertyStore: used=346517 high=346516
+2020-05-05 12:51:38.413+0000 INFO  [o.n.k.i.DiagnosticsManager]:   PropertyIndexStore: used=14 high=13
+2020-05-05 12:51:38.413+0000 INFO  [o.n.k.i.DiagnosticsManager]:   StringPropertyStore: used=14132 high=14131
+2020-05-05 12:51:38.413+0000 INFO  [o.n.k.i.DiagnosticsManager]:   ArrayPropertyStore: used=12553 high=12552
+2020-05-05 12:51:38.413+0000 INFO  [o.n.k.i.DiagnosticsManager]:   RelationshipGroupStore: used=43 high=42
+2020-05-05 12:51:38.413+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2020-05-05 12:51:38.413+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2020-05-05 12:51:38.413+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2020-05-05 12:51:38.413+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2020-05-05 12:51:38.413+0000 INFO  [o.n.k.i.DiagnosticsManager]: Disk space on partition (Total / Free / Free %): 41083600896 / 34281332736 / 83
+Storage files: (filename : modification date - size)
+2020-05-05 12:51:38.415+0000 INFO  [o.n.k.i.DiagnosticsManager]:   active_tx_log: 2019-12-09T15:09:48-0800 - 11.00 B
+2020-05-05 12:51:38.416+0000 INFO  [o.n.k.i.DiagnosticsManager]:   index:
+2020-05-05 12:51:38.416+0000 INFO  [o.n.k.i.DiagnosticsManager]:     lucene-store.db: 2020-05-04T19:56:31-0700 - 40.00 B
+2020-05-05 12:51:38.416+0000 INFO  [o.n.k.i.DiagnosticsManager]:     lucene.log.1: 2020-05-05T05:51:38-0700 - 16.00 B
+2020-05-05 12:51:38.416+0000 INFO  [o.n.k.i.DiagnosticsManager]:     lucene.log.active: 2020-05-05T05:51:38-0700 - 4.00 B
+2020-05-05 12:51:38.416+0000 INFO  [o.n.k.i.DiagnosticsManager]:     lucene.log.v0: 2019-12-09T15:09:48-0800 - 16.00 B
+2020-05-05 12:51:38.416+0000 INFO  [o.n.k.i.DiagnosticsManager]:     lucene.log.v1: 2019-12-09T15:09:48-0800 - 16.00 B
+2020-05-05 12:51:38.416+0000 INFO  [o.n.k.i.DiagnosticsManager]:     lucene.log.v10: 2020-04-23T20:49:04-0700 - 16.00 B
+2020-05-05 12:51:38.416+0000 INFO  [o.n.k.i.DiagnosticsManager]:     lucene.log.v11: 2020-04-23T20:54:12-0700 - 16.00 B
+2020-05-05 12:51:38.417+0000 INFO  [o.n.k.i.DiagnosticsManager]:     lucene.log.v12: 2020-04-23T20:57:44-0700 - 16.00 B
+2020-05-05 12:51:38.417+0000 INFO  [o.n.k.i.DiagnosticsManager]:     lucene.log.v13: 2020-04-23T20:58:48-0700 - 16.00 B
+2020-05-05 12:51:38.417+0000 INFO  [o.n.k.i.DiagnosticsManager]:     lucene.log.v14: 2020-04-26T23:41:22-0700 - 16.00 B
+2020-05-05 12:51:38.417+0000 INFO  [o.n.k.i.DiagnosticsManager]:     lucene.log.v15: 2020-04-28T22:31:46-0700 - 16.00 B
+2020-05-05 12:51:38.417+0000 INFO  [o.n.k.i.DiagnosticsManager]:     lucene.log.v16: 2020-04-28T22:50:26-0700 - 16.00 B
+2020-05-05 12:51:38.417+0000 INFO  [o.n.k.i.DiagnosticsManager]:     lucene.log.v17: 2020-04-28T23:43:44-0700 - 16.00 B
+2020-05-05 12:51:38.417+0000 INFO  [o.n.k.i.DiagnosticsManager]:     lucene.log.v18: 2020-04-29T22:38:20-0700 - 16.00 B
+2020-05-05 12:51:38.417+0000 INFO  [o.n.k.i.DiagnosticsManager]:     lucene.log.v19: 2020-05-04T09:31:41-0700 - 16.00 B
+2020-05-05 12:51:38.417+0000 INFO  [o.n.k.i.DiagnosticsManager]:     lucene.log.v2: 2020-04-11T11:21:18-0700 - 16.00 B
+2020-05-05 12:51:38.417+0000 INFO  [o.n.k.i.DiagnosticsManager]:     lucene.log.v20: 2020-05-04T09:44:18-0700 - 16.00 B
+2020-05-05 12:51:38.418+0000 INFO  [o.n.k.i.DiagnosticsManager]:     lucene.log.v21: 2020-05-04T19:55:23-0700 - 16.00 B
+2020-05-05 12:51:38.418+0000 INFO  [o.n.k.i.DiagnosticsManager]:     lucene.log.v3: 2020-04-23T20:19:36-0700 - 16.00 B
+2020-05-05 12:51:38.418+0000 INFO  [o.n.k.i.DiagnosticsManager]:     lucene.log.v4: 2020-04-23T20:32:10-0700 - 16.00 B
+2020-05-05 12:51:38.418+0000 INFO  [o.n.k.i.DiagnosticsManager]:     lucene.log.v5: 2020-04-23T20:36:44-0700 - 16.00 B
+2020-05-05 12:51:38.418+0000 INFO  [o.n.k.i.DiagnosticsManager]:     lucene.log.v6: 2020-04-23T20:38:52-0700 - 16.00 B
+2020-05-05 12:51:38.418+0000 INFO  [o.n.k.i.DiagnosticsManager]:     lucene.log.v7: 2020-04-23T20:40:30-0700 - 16.00 B
+2020-05-05 12:51:38.418+0000 INFO  [o.n.k.i.DiagnosticsManager]:     lucene.log.v8: 2020-04-23T20:42:40-0700 - 16.00 B
+2020-05-05 12:51:38.418+0000 INFO  [o.n.k.i.DiagnosticsManager]:     lucene.log.v9: 2020-04-23T20:44:46-0700 - 16.00 B
+2020-05-05 12:51:38.418+0000 INFO  [o.n.k.i.DiagnosticsManager]:   - Total: 2020-05-05T05:51:38-0700 - 412.00 B
+2020-05-05 12:51:38.418+0000 INFO  [o.n.k.i.DiagnosticsManager]:   lock: 2020-05-05T05:51:38-0700 - 0.00 B
+2020-05-05 12:51:38.418+0000 INFO  [o.n.k.i.DiagnosticsManager]:   messages.log: 2020-05-05T05:51:38-0700 - 55.00 kB
+2020-05-05 12:51:38.419+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore: 2020-05-05T05:51:38-0700 - 81.00 B
+2020-05-05 12:51:38.419+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.id: 2020-05-05T05:51:38-0700 - 9.00 B
+2020-05-05 12:51:38.419+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.labeltokenstore.db: 2020-05-05T05:51:38-0700 - 15.00 B
+2020-05-05 12:51:38.419+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.labeltokenstore.db.id: 2020-05-05T05:51:38-0700 - 9.00 B
+2020-05-05 12:51:38.419+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.labeltokenstore.db.names: 2020-05-05T05:51:38-0700 - 152.00 B
+2020-05-05 12:51:38.419+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.labeltokenstore.db.names.id: 2020-05-05T05:51:38-0700 - 9.00 B
+2020-05-05 12:51:38.419+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.nodestore.db: 2020-05-05T05:51:38-0700 - 1.75 MB
+2020-05-05 12:51:38.419+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.nodestore.db.id: 2020-05-05T05:51:38-0700 - 9.00 B
+2020-05-05 12:51:38.419+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.nodestore.db.labels: 2020-05-05T05:51:38-0700 - 68.00 B
+2020-05-05 12:51:38.419+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.nodestore.db.labels.id: 2020-05-05T05:51:38-0700 - 9.00 B
+2020-05-05 12:51:38.419+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.propertystore.db: 2020-05-05T05:51:38-0700 - 13.55 MB
+2020-05-05 12:51:38.420+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.propertystore.db.arrays: 2020-05-05T05:51:38-0700 - 1.53 MB
+2020-05-05 12:51:38.420+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.propertystore.db.arrays.id: 2020-05-05T05:51:38-0700 - 9.00 B
+2020-05-05 12:51:38.420+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.propertystore.db.id: 2020-05-05T05:51:38-0700 - 9.00 B
+2020-05-05 12:51:38.420+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.propertystore.db.index: 2020-05-05T05:51:38-0700 - 126.00 B
+2020-05-05 12:51:38.420+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.propertystore.db.index.id: 2020-05-05T05:51:38-0700 - 9.00 B
+2020-05-05 12:51:38.420+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.propertystore.db.index.keys: 2020-05-05T05:51:38-0700 - 570.00 B
+2020-05-05 12:51:38.420+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.propertystore.db.index.keys.id: 2020-05-05T05:51:38-0700 - 9.00 B
+2020-05-05 12:51:38.420+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.propertystore.db.strings: 2020-05-05T05:51:38-0700 - 1.73 MB
+2020-05-05 12:51:38.420+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.propertystore.db.strings.id: 2020-05-05T05:51:38-0700 - 9.00 B
+2020-05-05 12:51:38.420+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.relationshipgroupstore.db: 2020-05-05T05:51:38-0700 - 1.05 kB
+2020-05-05 12:51:38.420+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.relationshipgroupstore.db.id: 2020-05-05T05:51:38-0700 - 9.00 B
+2020-05-05 12:51:38.420+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.relationshipstore.db: 2020-05-05T05:51:38-0700 - 4.91 MB
+2020-05-05 12:51:38.420+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.relationshipstore.db.id: 2020-05-05T05:51:38-0700 - 9.00 B
+2020-05-05 12:51:38.421+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.relationshiptypestore.db: 2020-05-05T05:51:38-0700 - 40.00 B
+2020-05-05 12:51:38.421+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.relationshiptypestore.db.id: 2020-05-05T05:51:38-0700 - 9.00 B
+2020-05-05 12:51:38.421+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.relationshiptypestore.db.names: 2020-05-05T05:51:38-0700 - 342.00 B
+2020-05-05 12:51:38.421+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.relationshiptypestore.db.names.id: 2020-05-05T05:51:38-0700 - 9.00 B
+2020-05-05 12:51:38.421+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.schemastore.db: 2020-05-05T05:51:38-0700 - 64.00 B
+2020-05-05 12:51:38.421+0000 INFO  [o.n.k.i.DiagnosticsManager]:   neostore.schemastore.db.id: 2020-05-05T05:51:38-0700 - 9.00 B
+2020-05-05 12:51:38.421+0000 INFO  [o.n.k.i.DiagnosticsManager]:   nioneo_logical.log.1: 2020-05-05T05:51:38-0700 - 16.00 B
+2020-05-05 12:51:38.421+0000 INFO  [o.n.k.i.DiagnosticsManager]:   nioneo_logical.log.active: 2020-05-05T05:51:38-0700 - 4.00 B
+2020-05-05 12:51:38.421+0000 INFO  [o.n.k.i.DiagnosticsManager]:   nioneo_logical.log.v0: 2019-12-09T15:09:48-0800 - 16.00 B
+2020-05-05 12:51:38.421+0000 INFO  [o.n.k.i.DiagnosticsManager]:   nioneo_logical.log.v1: 2019-12-09T15:09:48-0800 - 16.00 B
+2020-05-05 12:51:38.421+0000 INFO  [o.n.k.i.DiagnosticsManager]:   nioneo_logical.log.v10: 2020-04-23T20:49:04-0700 - 16.00 B
+2020-05-05 12:51:38.422+0000 INFO  [o.n.k.i.DiagnosticsManager]:   nioneo_logical.log.v11: 2020-04-23T20:54:12-0700 - 16.00 B
+2020-05-05 12:51:38.422+0000 INFO  [o.n.k.i.DiagnosticsManager]:   nioneo_logical.log.v12: 2020-04-23T20:57:44-0700 - 16.00 B
+2020-05-05 12:51:38.422+0000 INFO  [o.n.k.i.DiagnosticsManager]:   nioneo_logical.log.v13: 2020-04-23T20:58:48-0700 - 16.00 B
+2020-05-05 12:51:38.422+0000 INFO  [o.n.k.i.DiagnosticsManager]:   nioneo_logical.log.v14: 2020-04-26T23:41:22-0700 - 16.00 B
+2020-05-05 12:51:38.422+0000 INFO  [o.n.k.i.DiagnosticsManager]:   nioneo_logical.log.v15: 2020-04-28T22:31:46-0700 - 16.00 B
+2020-05-05 12:51:38.422+0000 INFO  [o.n.k.i.DiagnosticsManager]:   nioneo_logical.log.v16: 2020-04-28T22:50:26-0700 - 16.00 B
+2020-05-05 12:51:38.422+0000 INFO  [o.n.k.i.DiagnosticsManager]:   nioneo_logical.log.v17: 2020-04-28T23:43:44-0700 - 16.00 B
+2020-05-05 12:51:38.422+0000 INFO  [o.n.k.i.DiagnosticsManager]:   nioneo_logical.log.v18: 2020-04-29T22:38:20-0700 - 16.00 B
+2020-05-05 12:51:38.422+0000 INFO  [o.n.k.i.DiagnosticsManager]:   nioneo_logical.log.v19: 2020-05-04T09:31:41-0700 - 16.00 B
+2020-05-05 12:51:38.423+0000 INFO  [o.n.k.i.DiagnosticsManager]:   nioneo_logical.log.v2: 2020-04-11T11:21:18-0700 - 16.00 B
+2020-05-05 12:51:38.423+0000 INFO  [o.n.k.i.DiagnosticsManager]:   nioneo_logical.log.v20: 2020-05-04T09:44:18-0700 - 16.00 B
+2020-05-05 12:51:38.423+0000 INFO  [o.n.k.i.DiagnosticsManager]:   nioneo_logical.log.v21: 2020-05-04T19:55:23-0700 - 16.00 B
+2020-05-05 12:51:38.423+0000 INFO  [o.n.k.i.DiagnosticsManager]:   nioneo_logical.log.v3: 2020-04-23T20:19:36-0700 - 16.00 B
+2020-05-05 12:51:38.423+0000 INFO  [o.n.k.i.DiagnosticsManager]:   nioneo_logical.log.v4: 2020-04-23T20:32:10-0700 - 16.00 B
+2020-05-05 12:51:38.423+0000 INFO  [o.n.k.i.DiagnosticsManager]:   nioneo_logical.log.v5: 2020-04-23T20:36:44-0700 - 16.00 B
+2020-05-05 12:51:38.423+0000 INFO  [o.n.k.i.DiagnosticsManager]:   nioneo_logical.log.v6: 2020-04-23T20:38:52-0700 - 16.00 B
+2020-05-05 12:51:38.423+0000 INFO  [o.n.k.i.DiagnosticsManager]:   nioneo_logical.log.v7: 2020-04-23T20:40:30-0700 - 16.00 B
+2020-05-05 12:51:38.423+0000 INFO  [o.n.k.i.DiagnosticsManager]:   nioneo_logical.log.v8: 2020-04-23T20:42:40-0700 - 16.00 B
+2020-05-05 12:51:38.423+0000 INFO  [o.n.k.i.DiagnosticsManager]:   nioneo_logical.log.v9: 2020-04-23T20:44:46-0700 - 16.00 B
+2020-05-05 12:51:38.423+0000 INFO  [o.n.k.i.DiagnosticsManager]:   schema:
+2020-05-05 12:51:38.424+0000 INFO  [o.n.k.i.DiagnosticsManager]:     label:
+2020-05-05 12:51:38.424+0000 INFO  [o.n.k.i.DiagnosticsManager]:       lucene:
+2020-05-05 12:51:38.424+0000 INFO  [o.n.k.i.DiagnosticsManager]:         _0.cfs: 2020-05-04T20:27:29-0700 - 132.27 kB
+2020-05-05 12:51:38.424+0000 INFO  [o.n.k.i.DiagnosticsManager]:         segments.gen: 2020-05-04T20:27:29-0700 - 20.00 B
+2020-05-05 12:51:38.424+0000 INFO  [o.n.k.i.DiagnosticsManager]:         segments_1: 2020-05-04T20:27:29-0700 - 246.00 B
+2020-05-05 12:51:38.424+0000 INFO  [o.n.k.i.DiagnosticsManager]:         write.lock: 2020-05-05T05:51:38-0700 - 0.00 B
+2020-05-05 12:51:38.424+0000 INFO  [o.n.k.i.DiagnosticsManager]:       - Total: 2020-05-05T05:51:38-0700 - 132.53 kB
+2020-05-05 12:51:38.424+0000 INFO  [o.n.k.i.DiagnosticsManager]:     - Total: 2019-12-09T14:54:38-0800 - 132.53 kB
+2020-05-05 12:51:38.424+0000 INFO  [o.n.k.i.DiagnosticsManager]:   - Total: 2019-12-09T14:54:36-0800 - 132.53 kB
+2020-05-05 12:51:38.424+0000 INFO  [o.n.k.i.DiagnosticsManager]:   store_lock: 2020-05-04T20:27:29-0700 - 0.00 B
+2020-05-05 12:51:38.424+0000 INFO  [o.n.k.i.DiagnosticsManager]:   tm_tx_log.1: 2020-05-05T05:51:38-0700 - 0.00 B
+2020-05-05 12:51:38.424+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2020-05-05 12:51:38.447+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now ready
+2020-05-05 12:51:38.674+0000 INFO  [o.n.s.d.LifecycleManagingDatabase]: Successfully started database
+2020-05-05 12:51:38.674+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- SERVER STARTED START ---
+2020-05-05 12:51:38.713+0000 INFO  [o.n.s.CommunityNeoServer]: Starting HTTP on port :7474 with 40 threads available
+2020-05-05 12:51:38.841+0000 INFO  [o.n.s.CommunityNeoServer]: Enabling HTTPS on port :7473
+2020-05-05 12:51:38.882+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for org.neo4j.server.configuration.Configurator START ---
+2020-05-05 12:51:38.883+0000 INFO  [o.n.k.i.DiagnosticsManager]: Server configuration:
+2020-05-05 12:51:38.883+0000 INFO  [o.n.k.i.DiagnosticsManager]: org.neo4j.server.database.location = data/graph.db
+2020-05-05 12:51:38.883+0000 INFO  [o.n.k.i.DiagnosticsManager]: org.neo4j.server.webserver.port = 7474
+2020-05-05 12:51:38.883+0000 INFO  [o.n.k.i.DiagnosticsManager]: org.neo4j.server.webserver.https.enabled = true
+2020-05-05 12:51:38.883+0000 INFO  [o.n.k.i.DiagnosticsManager]: org.neo4j.server.webserver.https.port = 7473
+2020-05-05 12:51:38.883+0000 INFO  [o.n.k.i.DiagnosticsManager]: org.neo4j.server.webserver.https.cert.location = conf/ssl/snakeoil.cert
+2020-05-05 12:51:38.883+0000 INFO  [o.n.k.i.DiagnosticsManager]: org.neo4j.server.webserver.https.key.location = conf/ssl/snakeoil.key
+2020-05-05 12:51:38.883+0000 INFO  [o.n.k.i.DiagnosticsManager]: org.neo4j.server.webserver.https.keystore.location = data/keystore
+2020-05-05 12:51:38.883+0000 INFO  [o.n.k.i.DiagnosticsManager]: org.neo4j.server.webadmin.rrdb.location = data/rrd
+2020-05-05 12:51:38.883+0000 INFO  [o.n.k.i.DiagnosticsManager]: org.neo4j.server.db.tuning.properties = conf/neo4j.properties
+2020-05-05 12:51:38.883+0000 INFO  [o.n.k.i.DiagnosticsManager]: org.neo4j.server.manage.console_engines = shell
+2020-05-05 12:51:38.883+0000 INFO  [o.n.k.i.DiagnosticsManager]: org.neo4j.server.http.log.enabled = false
+2020-05-05 12:51:38.883+0000 INFO  [o.n.k.i.DiagnosticsManager]: org.neo4j.server.http.log.config = conf/neo4j-http-logging.xml
+2020-05-05 12:51:38.883+0000 INFO  [o.n.k.i.DiagnosticsManager]: org.neo4j.server.webadmin.management.uri = /db/manage/
+2020-05-05 12:51:38.883+0000 INFO  [o.n.k.i.DiagnosticsManager]: org.neo4j.server.webadmin.data.uri = /db/data/
+2020-05-05 12:51:38.883+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for org.neo4j.server.configuration.Configurator END ---
+2020-05-05 12:51:38.886+0000 INFO  [o.n.s.m.DiscoveryModule]: Mounted discovery module at [/]
+2020-05-05 12:51:38.900+0000 INFO  [o.n.s.p.PluginManager]: Loaded server plugin "GremlinPlugin"
+2020-05-05 12:51:38.901+0000 INFO  [o.n.s.p.PluginManager]:   GraphDatabaseService.execute_script: execute a Gremlin script with 'g' set to the Neo4j2Graph and 'results' containing the results. Only results of one object type is supported.
+2020-05-05 12:51:38.901+0000 INFO  [o.n.s.m.RESTApiModule]: Mounted REST API at [/db/data/]
+2020-05-05 12:51:38.902+0000 INFO  [o.n.s.m.ManagementApiModule]: Mounted management API at [/db/manage/]
+2020-05-05 12:51:38.902+0000 INFO  [o.n.s.m.WebAdminModule]: Mounted webadmin at [/webadmin]
+2020-05-05 12:51:38.902+0000 INFO  [o.n.s.m.Neo4jBrowserModule]: Mounted Neo4j Browser at [/browser]
+2020-05-05 12:51:38.936+0000 INFO  [o.n.s.w.Jetty9WebServer]: Mounting static content at [/webadmin] from [webadmin-html]
+2020-05-05 12:51:38.969+0000 INFO  [o.n.s.w.Jetty9WebServer]: Mounting static content at [/browser] from [browser]
+2020-05-05 12:51:39.424+0000 INFO  [o.n.s.CommunityNeoServer]: Server started on: http://localhost:7474/
+2020-05-05 12:51:39.425+0000 INFO  [o.n.s.CommunityNeoServer]: Remote interface ready and available at [http://localhost:7474/]
+2020-05-05 12:51:39.425+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- SERVER STARTED END ---
+2020-05-05 13:59:45.455+0000 INFO  [o.n.s.CommunityBootstrapper]: Neo4j Server shutdown initiated by request
+2020-05-05 13:59:45.468+0000 INFO  [o.n.s.CommunityNeoServer]: Successfully shutdown Neo4j Server.
+2020-05-05 13:59:45.468+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Shutdown started
+2020-05-05 13:59:45.468+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now unavailable
+2020-05-05 13:59:45.483+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Closed log /home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/index/lucene.log
+2020-05-05 13:59:45.484+0000 INFO  [o.n.k.i.t.TxManager]: TM shutting down
+2020-05-05 13:59:45.486+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Closed log /home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/nioneo_logical.log
+2020-05-05 13:59:45.487+0000 INFO  [o.n.k.i.n.s.StoreFactory]: /home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.relationshiptypestore.db.names hit=0 miss=16 switches=0 ooe=0
+2020-05-05 13:59:45.489+0000 INFO  [o.n.k.i.n.s.StoreFactory]: /home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.relationshiptypestore.db hit=0 miss=8 switches=0 ooe=0
+2020-05-05 13:59:45.489+0000 INFO  [o.n.k.i.n.s.StoreFactory]: /home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.labeltokenstore.db.names hit=0 miss=6 switches=0 ooe=0
+2020-05-05 13:59:45.490+0000 INFO  [o.n.k.i.n.s.StoreFactory]: /home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.labeltokenstore.db hit=0 miss=3 switches=0 ooe=0
+2020-05-05 13:59:45.491+0000 INFO  [o.n.k.i.n.s.StoreFactory]: /home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.propertystore.db.strings hit=0 miss=76 switches=0 ooe=0
+2020-05-05 13:59:45.492+0000 INFO  [o.n.k.i.n.s.StoreFactory]: /home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.propertystore.db.index.keys hit=0 miss=28 switches=0 ooe=0
+2020-05-05 13:59:45.492+0000 INFO  [o.n.k.i.n.s.StoreFactory]: /home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.propertystore.db.index hit=0 miss=14 switches=0 ooe=0
+2020-05-05 13:59:45.493+0000 INFO  [o.n.k.i.n.s.StoreFactory]: /home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.propertystore.db.arrays hit=0 miss=6 switches=0 ooe=0
+2020-05-05 13:59:45.494+0000 INFO  [o.n.k.i.n.s.StoreFactory]: /home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.propertystore.db hit=0 miss=1609 switches=0 ooe=0
+2020-05-05 13:59:45.494+0000 INFO  [o.n.k.i.n.s.StoreFactory]: /home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.relationshipstore.db hit=23 miss=1465 switches=0 ooe=0
+2020-05-05 13:59:45.495+0000 INFO  [o.n.k.i.n.s.StoreFactory]: /home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.nodestore.db.labels hit=0 miss=0 switches=0 ooe=0
+2020-05-05 13:59:45.496+0000 INFO  [o.n.k.i.n.s.StoreFactory]: /home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.nodestore.db hit=9283 miss=115309 switches=0 ooe=0
+2020-05-05 13:59:45.496+0000 INFO  [o.n.k.i.n.s.StoreFactory]: /home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.schemastore.db hit=0 miss=0 switches=0 ooe=0
+2020-05-05 13:59:45.497+0000 INFO  [o.n.k.i.n.s.StoreFactory]: /home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore.relationshipgroupstore.db hit=0 miss=0 switches=0 ooe=0
+2020-05-05 13:59:45.498+0000 INFO  [o.n.k.i.n.s.StoreFactory]: /home/ubuntu/Navex/neo4j-community-2.1.8/data/graph.db/neostore hit=0 miss=21 switches=0 ooe=0
+2020-05-05 13:59:45.498+0000 INFO  [o.n.k.i.n.x.NeoStoreXaDataSource]: NeoStore closed
+2020-05-05 13:59:45.498+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STOPPING diagnostics START ---
+2020-05-05 13:59:45.498+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STOPPING diagnostics END ---
+2020-05-05 13:59:45.499+0000 INFO  [o.n.s.d.LifecycleManagingDatabase]: Successfully stopped database
+2020-05-05 13:59:45.499+0000 INFO  [o.n.s.CommunityNeoServer]: Successfully shutdown database.
