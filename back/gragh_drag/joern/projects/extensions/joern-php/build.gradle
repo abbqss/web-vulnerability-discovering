@@ -1,0 +1,13 @@
+repositories { mavenCentral() }
+dependencies{
+	compile project(':projects:extensions:jpanlib')
+        
+        //replace $PATHTOLIB with your path to 'joern/projects/extensions/joern-php/lib' 
+          compile fileTree(dir: '$PATHTOLIB', include: ['*.jar'])
+        
+
+	compile group: 'commons-cli', name: 'commons-cli', version: '1.2'
+	compile group: 'junit', name: 'junit', version: '4.12'
+        compile group: 'com.github.jsqlparser', name: 'jsqlparser', version: '1.1'
+
+}
